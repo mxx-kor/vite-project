@@ -5,7 +5,6 @@ import ProductComponent from "./ProductComponent";
 import { SetProducts } from "../redux/actions/productActions";
 
 const ProductListing = () => {
-    const products = useSelector((state) => state);
     const dispatch = useDispatch(); 
 
     const fetchProducts = async () => {
@@ -20,7 +19,7 @@ const ProductListing = () => {
     }, [])
 
     return (
-        <div className="ui grid container">
+        <div className="ui four centered column grid">
             <ProductComponent />
         </div>
     )
