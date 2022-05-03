@@ -1,5 +1,9 @@
 # Vite와 Redux를 활용한 React 쇼핑몰 구현
 
+> Redux를 이용하여 상태 관리와 Vite의 빠른 번들링 속도를 사용
+
+### Demo : https://62710347df61502a3294c29c--fakeshop-vite.netlify.app/product/20
+
 ### 프리뷰
 
 ![image](https://user-images.githubusercontent.com/82329983/166159468-957523f9-4330-473d-a993-bc13dbd89bbb.png)
@@ -32,4 +36,3 @@
 - Redux를 통해 Reducer로 관리되는 State들을 쉽게 디버깅 가능
 - 각 action들을 타임라인 순으로 디버깅 가능
 - 트리 구조를 확인할 수 있음
-
