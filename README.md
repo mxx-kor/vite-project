@@ -2,7 +2,7 @@
 
 > Redux를 이용하여 상태 관리와 Vite의 빠른 번들링 속도를 사용
 
-### Demo : https://62710347df61502a3294c29c--fakeshop-vite.netlify.app/product/20
+### Demo : https://fakeshop-vite.netlify.app/
 
 ### 프리뷰
 
